@@ -28,7 +28,8 @@ VBoxManage controlvm <uuid>|<name>
 
 * [Jonathan Li's Hack](https://github.com/onejli/docker-vpn-helper)
 * [Ian Collington Information](https://www.iancollington.com/docker-and-cisco-anyconnect-vpn/)
-* [Stackoverflow 1](http://stackoverflow.com/questions/32174560/port-forwarding-in-docker-machine)
+* [Stackoverflow Q1](http://stackoverflow.com/questions/32174560/port-forwarding-in-docker-machine)
+* [Super User Q1*](http://superuser.com/questions/878341/nginx-docker-container-port-forwarding-not-working-on-os-x)
 
 ### References
 
